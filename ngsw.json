@@ -149,7 +149,7 @@
         "/4.95f241a6077493da24e3.js",
         "/40.96d3c92086ab9d3dfc64.js",
         "/41.739a2211949e3cfc9c24.js",
-        "/42.904d7d4836e664840db4.js",
+        "/42.231162d5b478b5c8c1aa.js",
         "/43.89db3b2ced3a8a393cc2.js",
         "/44.903003637e854e9d13ea.js",
         "/45.0477f167a79839808c36.js",
@@ -216,7 +216,7 @@
         "/index.html",
         "/main.a3143d446021a7a18ad1.js",
         "/polyfills.8f8ba565a0cb8b9507b3.js",
-        "/runtime.f7975fff4beaaaca32c6.js",
+        "/runtime.fc88ad18698a52a71f6f.js",
         "/styles.1fe958939c542c7cd9a6.css"
       ],
       "patterns": []
@@ -410,7 +410,7 @@
     "/4.95f241a6077493da24e3.js": "c91ea8a01f2270d55998d7ca5cfcfd5585f32785",
     "/40.96d3c92086ab9d3dfc64.js": "92829a53097899a6f0fcfb55cb5617c324e21f20",
     "/41.739a2211949e3cfc9c24.js": "24d2137c6163d28a882d1eaa31396d1b9afc564c",
-    "/42.904d7d4836e664840db4.js": "4fb4e84084992765768451e62a0f5f499f93f33e",
+    "/42.231162d5b478b5c8c1aa.js": "08dae9ddbab2b3fb822ded3c7efc7381cb6a432d",
     "/43.89db3b2ced3a8a393cc2.js": "f3e2788661dd139896a368baf82d58532cb73051",
     "/44.903003637e854e9d13ea.js": "27ae155db266ba102b1c524062372b3dff166f4d",
     "/45.0477f167a79839808c36.js": "fcd30306a3304a8aa4bb99fbdbda992d4a914a98",
@@ -510,10 +510,10 @@
     "/assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "/assets/terms/changelly.html": "e5c1bab11d33eedf8c21c138fac6352e78c4438d",
     "/common.6f5c05cdd004d66020a4.js": "23713cb7611c64e07075d14767b56bf87cc970dd",
-    "/index.html": "be93aa637c2ff92eb782bf24b91ea27489eef2c8",
+    "/index.html": "291c88e3b2ee336e800e4803a738891b3e7707c0",
     "/main.a3143d446021a7a18ad1.js": "c61af95672bee7ed9bc70c5eb07a8ef3f635afc5",
     "/polyfills.8f8ba565a0cb8b9507b3.js": "e833ef2ad0336357ed5cd9db48b75fc2d77ea13d",
-    "/runtime.f7975fff4beaaaca32c6.js": "62ccb6ffa96f6073adae3eb6890964e67a0dbc48",
+    "/runtime.fc88ad18698a52a71f6f.js": "8c5c00641612b0773a82c7d47e1d9cff957ef7f6",
     "/styles.1fe958939c542c7cd9a6.css": "9f4af4f2873b688fb2aa6be1952dade840900356"
   },
   "navigationUrls": [
