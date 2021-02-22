@@ -643,6 +643,9 @@ MIT
 @ionic-native/status-bar
 MIT
 
+@angular/animations
+MIT
+
 rxjs-compat
 Apache-2.0
                                Apache License
