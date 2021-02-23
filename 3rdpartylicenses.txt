@@ -566,9 +566,6 @@ Apache-2.0
 @firebase/util
 Apache-2.0
 
-@ionic-native/in-app-browser
-MIT
-
 qrcode
 MIT
 The MIT License (MIT)
@@ -1065,6 +1062,11 @@ firebase/auth
 @angular/service-worker
 MIT
 
+@ionic-native/in-app-browser
+MIT
+
+ngx-paypal
+
 ngx-qrcode2
 MIT
 
@@ -1072,8 +1074,6 @@ loader
 
 @angular/core
 MIT
-
-ngx-paypal
 
 zone.js
 MIT
