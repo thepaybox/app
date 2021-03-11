@@ -13,13 +13,12 @@
     },
     {
       "name": "assets",
-      "installMode": "prefetch",
+      "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
         "/assets/data/coaid.json",
         "/assets/data/coaid.json.sv",
         "/assets/data/data.json",
-        "/assets/dist/dashcore-lib.js",
         "/assets/dist/dashcore-lib.min.js",
         "/assets/dist/stdcrypro_takenfrom.txt",
         "/assets/dist/stdcrypto.min.js",
@@ -61,7 +60,6 @@
     "/assets/data/coaid.json": "9b32c16bc9adaa5d253bc158961f4cff0aab5e57",
     "/assets/data/coaid.json.sv": "c1dc169e1e87a209ef6cbc081e0c9da24c0411f2",
     "/assets/data/data.json": "3e4047defc9afdd1adb7c031798c02f6f8e72d95",
-    "/assets/dist/dashcore-lib.js": "93d335460ae447798b6e2a5f0469cf480646ac04",
     "/assets/dist/dashcore-lib.min.js": "8c5957d50b0ae99f854cf0abde6424a300605f05",
     "/assets/dist/stdcrypro_takenfrom.txt": "cf320536d3315c4678fc4c1625397315d94cf376",
     "/assets/dist/stdcrypto.min.js": "54ea0bb7ae60a1f4632b6c45da6a907872f73054",
@@ -94,7 +92,7 @@
     "/assets/img/speakers/rabbit.jpg": "5286740d99c900d080da59c511865f495e8c6266",
     "/assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "/assets/terms/changelly.html": "e5c1bab11d33eedf8c21c138fac6352e78c4438d",
-    "/index.html": "b13b76fc5a1ee93b751147d85cb75e9291a25d72"
+    "/index.html": "bcca0ee784e836d832f3aa1641954a1f34b88d26"
   },
   "navigationUrls": [
     {
