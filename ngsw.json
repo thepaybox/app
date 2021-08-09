@@ -8,9 +8,9 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.778604c89d337c5773a0.js",
+        "/main.1c79d1a2eb32f6039733.js",
         "/polyfills.252c6a128c878510d11f.js",
-        "/runtime.08a73ec80746e22c3083.js",
+        "/runtime.a87add464f01770261e1.js",
         "/styles.1fe958939c542c7cd9a6.css"
       ],
       "patterns": []
@@ -96,10 +96,10 @@
     "/assets/img/speakers/rabbit.jpg": "5286740d99c900d080da59c511865f495e8c6266",
     "/assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "/assets/terms/changelly.html": "e5c1bab11d33eedf8c21c138fac6352e78c4438d",
-    "/index.html": "01864fc5c51aaab86d8bb38f604798b1d12b7ad2",
-    "/main.778604c89d337c5773a0.js": "d773f165e4c8c28624887ee8aad4498d75832869",
+    "/index.html": "1c3e172c96c97099dbe287f4e14e8927787a4c21",
+    "/main.1c79d1a2eb32f6039733.js": "01819b16ee28782d0661c968cf2f54d235343b63",
     "/polyfills.252c6a128c878510d11f.js": "b8513b9cc49b897b9350dd0a02ba7c149aeaccf7",
-    "/runtime.08a73ec80746e22c3083.js": "545574cae24ca33e596a032e81b96d19ace9e370",
+    "/runtime.a87add464f01770261e1.js": "777f93ca744c67892d385a732f7aa0438532bec3",
     "/styles.1fe958939c542c7cd9a6.css": "9f4af4f2873b688fb2aa6be1952dade840900356"
   },
   "navigationUrls": [
